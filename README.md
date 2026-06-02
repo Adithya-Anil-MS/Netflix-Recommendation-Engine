@@ -1,2 +1,2 @@
-# web-scraping-python
-Python web scraping project using BeautifulSoup and Requests
+# Netflix-Recommendation-Engine
+Movie recommendation system using collaborative filtering, built with Scikit-learn and Pandas
